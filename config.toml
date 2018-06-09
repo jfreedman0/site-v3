@@ -1,0 +1,49 @@
+## Basic Configuration
+
+baseurl = "http://jfreedman.co" 
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Joe Freedman"
+title = "Joe Freedman"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+# googleAnalytics = "XYZ"
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "Joe Freedman"
+intro = "Computer Science Graduate Stduent"
+description = "at Michigan State University"
+authorimage = "joe-square.jpg"
+dateformat = "Jan 2, 2006"
+
+## Site Meta Settings
+[params.meta]
+description = "Simple minimalist theme"
+keywords = "minimalist,blog,goa,hugo,developer"
+
+## Social Accounts
+[params.social]
+github = "jfreedman0"
+linkedin = "jfreedman0"
+medium = "@jfreedman0"
+resume = "jf_resume"
+
+## Extras
+[params.extra]
+copyright = "© Joe Freedman 2018" 
+poweredby = true
+highlightjs = true
+
+## Main Menu
+[[menu.main]]
+    name = ""
