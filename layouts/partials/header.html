@@ -16,9 +16,9 @@
 
 {{ .Hugo.Generator }}
 
-<!-- {{ range .AlternativeOutputFormats -}}
+{{ range .AlternativeOutputFormats -}}
     <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
-{{ end -}} -->
+{{ end -}}
 
 {{ if .Site.Params.extra.highlightjs }}
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/{{ .Site.Params.extra.highlightjsstyle | default "default" }}.min.css">
