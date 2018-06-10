@@ -1,5 +1,4 @@
-## Basic Configuration
-
+# Basic Configuration
 baseurl = "https://jfreedman.co" 
 builddrafts = false
 canonifyurls = false
@@ -14,8 +13,8 @@ title = "Joe Freedman"
 
 theme = "hugo-goa"
 
-## Hugo Built-in Features
-# googleAnalytics = "XYZ"
+# Hugo Built-in Features
+googleAnalytics = "UA-120052648-1"
 enableRobotsTXT = true
 
 ## Site Settings
