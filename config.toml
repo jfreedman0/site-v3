@@ -21,7 +21,7 @@ enableRobotsTXT = true
 ## Site Settings
 [params]
     author = "Joe Freedman"
-    intro = "Computer Science Graduate Stduent"
+    intro = "Computer Science Graduate Student"
     description = "at Michigan State University"
     authorimage = "joe-square.jpg"
     dateformat = "Jan 2, 2006"
