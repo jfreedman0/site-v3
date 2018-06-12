@@ -1,5 +1,5 @@
 # Basic Configuration
-baseurl = "https://jfreedman.co" 
+baseurl = "https://jfreedman.org" 
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
