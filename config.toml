@@ -27,8 +27,8 @@ enableRobotsTXT = true
 
 ## Site Meta Settings
 [params.meta]
-    description = "Simple minimalist theme"
-    keywords = "minimalist,blog,goa,hugo,developer"
+    description = "Joe Freedman Personal Site"
+    keywords = "minimalist,blog,goa,hugo,developer,joe,freedman,personal,site,msu,michigan,state"
 
 ## Social Accounts
 [params.social]
