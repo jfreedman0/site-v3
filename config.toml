@@ -34,7 +34,7 @@ enableRobotsTXT = true
 [params.social]
     github = "jfreedman0"
     linkedin = "jfreedman0"
-    # medium = "@jfreedman0"
+    medium = "@jfreedman0"
     resume = "jf_resume"
 
 ## Extras
