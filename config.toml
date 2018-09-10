@@ -36,6 +36,7 @@ enableRobotsTXT = true
     linkedin = "jfreedman0"
     # medium = "@jfreedman0"
     resume = "jf_resume"
+    calendly = "jfreedman0"
 
 ## Extras
 [params.extra]

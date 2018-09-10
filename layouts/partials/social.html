@@ -38,6 +38,9 @@
   {{ with .Site.Params.social.resume }}
   <a href="http://jfreedman0.github.io/resume/{{.}}.pdf"><i class="fa fa-file-alt" aria-hidden="true"></i></a>
   {{ end }}
+  {{ with .Site.Params.social.calendly }}
+  <a href="http://calendly.com/{{.}}"><i class="fa fa-calendar-plus" aria-hidden="true"></i></a>
+  {{ end }}
   {{ if and ( .Site.Params.extra.rss ) ( .RSSLink ) }}
   <a href="{{ .RSSLink }}"><i class="fa fa-rss" aria-hidden="true"></i></a>
   {{ end }}
