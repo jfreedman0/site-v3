@@ -16,6 +16,7 @@ theme = "hugo-goa"
 # Hugo Built-in Features
 googleAnalytics = "UA-120052648-1"
 enableRobotsTXT = true
+canonifyurls = true
 
 ## Site Settings
 [params]
