@@ -12,6 +12,8 @@
 
 <base href="{{ .Site.BaseURL }}">
 
+{{ partial "seo_schema" . }}
+
 <title>{{ .Site.Title }}</title>
 
 {{ .Hugo.Generator }}
