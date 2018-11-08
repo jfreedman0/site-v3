@@ -28,7 +28,7 @@ canonifyURLs = true
 ## Site Meta Settings
 [params.meta]
     description = "Joe Freedman Personal Site"
-    keywords = "minimalist,blog,goa,hugo,developer,joe,freedman,personal,site,msu,michigan,state"
+    keywords = "joe,freedman,personal,site,msu,michigan,state,university,student,data,science,developer,software,engineer"
 
 ## Social Accounts
 [params.social]
